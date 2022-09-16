@@ -1,0 +1,12 @@
+Features
+
+Volunteer:Volunteer can create and update their profile. They can join any event. They can also search events by event name. They can also give feedback about the events they joined. Also they can remove their feedback.
+
+
+Company: Company can create and update their profile. Company can create event and modify event. They can also add volunteers to the event. 
+
+
+Admin: Admins can login into their account. They can update their profile. They can add events. They can also add volunteers to the event. They can also see all the feedback about the events.
+
+
+ 

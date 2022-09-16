@@ -1,0 +1,1 @@
+For database of this project follow the database folder. You have to create a similar database structure to run this project. 
